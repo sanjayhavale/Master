@@ -12,6 +12,5 @@ public class FirstClass
   {
      return nameValue;
   }
-  
 }
 
